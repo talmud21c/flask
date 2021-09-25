@@ -91,7 +91,7 @@
 
    터미널> flask run
 
-      ![image-20210924144742193](https://user-images.githubusercontent.com/85037782/134764178-4cb00e39-6866-4e54-b8da-9ebea007e99e.png)
+   ![image-20210924144742193](https://user-images.githubusercontent.com/85037782/134764178-4cb00e39-6866-4e54-b8da-9ebea007e99e.png)
 
    주소 Ctrl + 클릭
 

@@ -48,7 +48,7 @@
 
    1. windows powershell 관리자 실행
 
-   ![image-20210924141939201](https://user-images.githubusercontent.com/85037782/134764170-20ccf3f3-fb82-4efc-a3b6-12dca4c4024a.png)
+      ![image-20210924141939201](https://user-images.githubusercontent.com/85037782/134764170-20ccf3f3-fb82-4efc-a3b6-12dca4c4024a.png)
 
    2. Get-ExecutionPolicy
 
@@ -91,13 +91,13 @@
 
    터미널> flask run
 
-   ![image-20210924144742193](https://user-images.githubusercontent.com/85037782/134764178-4cb00e39-6866-4e54-b8da-9ebea007e99e.png)
+      ![image-20210924144742193](https://user-images.githubusercontent.com/85037782/134764178-4cb00e39-6866-4e54-b8da-9ebea007e99e.png)
 
    주소 Ctrl + 클릭
 
 4.  웹페이지 확인
 
-   ![image-20210924145014442](https://user-images.githubusercontent.com/85037782/134764180-6ea358b2-f00b-47d1-af70-bf61c6810f79.png)
+      ![image-20210924145014442](https://user-images.githubusercontent.com/85037782/134764180-6ea358b2-f00b-47d1-af70-bf61c6810f79.png)
 
 
 
@@ -107,11 +107,11 @@
 
 1. html 파일을 보관할 templates 디렉토리 생성
 
-   ![image-20210924145720547](https://user-images.githubusercontent.com/85037782/134764181-a9f5d799-1b3b-48f3-8748-adab25c7079f.png)
+      ![image-20210924145720547](https://user-images.githubusercontent.com/85037782/134764181-a9f5d799-1b3b-48f3-8748-adab25c7079f.png)
 
 2. css, img등을 보관할 static 디렉토리 생성
 
-   ![image-20210924145814223](https://user-images.githubusercontent.com/85037782/134764182-22e4afb5-44e3-4104-9446-ac47b60d68e2.png)
+      ![image-20210924145814223](https://user-images.githubusercontent.com/85037782/134764182-22e4afb5-44e3-4104-9446-ac47b60d68e2.png)
 
 3. 모듈 추가
 
